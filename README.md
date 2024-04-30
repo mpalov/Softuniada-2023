@@ -8,5 +8,5 @@ This is the solved exercises I did on one of the biggest Bulgarian Software comp
 06. Pancakes 
 07. Bottom 
 08. Picky Particles
-9. 09. Two Teams 
+09. Two Teams 
 10. High Tech Racing 
